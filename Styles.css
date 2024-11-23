@@ -1,0 +1,50 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #0f172a;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.1);;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    color: #facc15;
+    margin: 50px;
+}
+
+button {
+    padding: 15px 20px;
+    font-size: 16px;
+    color: white;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin: 30px;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+#funFact {
+    margin-top: 3%;
+    font-size: 18px;
+    color: #fdfdfd;
+    text-align: center;
+    white-space: pre-line;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 15px;
+    margin-top: 50px;
+    
+}
