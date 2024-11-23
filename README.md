@@ -16,4 +16,4 @@ This app was designed as a capstone project for the GenAI 101 workshop, allowing
 - Easy Hosting on GitHub Pages: With no additional setup, users can deploy their app online to share with others.
 
 # Live Demo
-You can view a sample app hosted on GitHub Pages here: 
+You can view a sample app hosted on GitHub Pages here: [Live Preview](https://sajiya14.github.io/SL-Cricket-Facts-Generator-App/)
